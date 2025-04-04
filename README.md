@@ -1,11 +1,11 @@
 # CropAI
-#Project Overview :
+# Project Overview :
 
 CropAI is an advanced agricultural technology project designed to assist farmers by predicting crop diseases through image analysis. Users can upload images of their crops, and the system utilizes AI models to identify potential diseases with a confidence score.
 
 Additionally, CropAI features an interactive chatbot that provides instant assistance to users. The chatbot can answer common agricultural queries, offer disease prevention tips, and guide users on the best steps to take after a diagnosis. This combination of AI-powered disease detection and real-time user support makes CropAI a valuable tool for modern farming.
 
-#Problems Solved :
+# Problems Solved :
 1. Early Detection of Crop Diseases
 Farmers often struggle to detect plant diseases at an early stage, leading to significant crop damage. CropAI helps by analyzing plant images and identifying diseases before they spread, allowing for timely intervention.
 
