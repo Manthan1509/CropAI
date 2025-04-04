@@ -1,27 +1,27 @@
-# CropAI
+# KrishiMitra
 # Project Overview :
 
-CropAI is an advanced agricultural technology project designed to assist farmers by predicting crop diseases through image analysis. Users can upload images of their crops, and the system utilizes AI models to identify potential diseases with a confidence score.
+KrishiMitra is an advanced agricultural technology project designed to assist farmers by predicting crop diseases through image analysis. Users can upload images of their crops, and the system utilizes AI models to identify potential diseases with a confidence score.
 
-Additionally, CropAI features an interactive chatbot that provides instant assistance to users. The chatbot can answer common agricultural queries, offer disease prevention tips, and guide users on the best steps to take after a diagnosis. This combination of AI-powered disease detection and real-time user support makes CropAI a valuable tool for modern farming.
+Additionally, KrishiMitra features an interactive chatbot that provides instant assistance to users. The chatbot can answer common agricultural queries, offer disease prevention tips, and guide users on the best steps to take after a diagnosis. This combination of AI-powered disease detection and real-time user support makes CropAI a valuable tool for modern farming.
 
 # Problems Solved :
 1. Early Detection of Crop Diseases
-Farmers often struggle to detect plant diseases at an early stage, leading to significant crop damage. CropAI helps by analyzing plant images and identifying diseases before they spread, allowing for timely intervention.
+Farmers often struggle to detect plant diseases at an early stage, leading to significant crop damage. KrishiMitra helps by analyzing plant images and identifying diseases before they spread, allowing for timely intervention.
 
 2. Reducing Crop Loss & Increasing Yield
-Unidentified and untreated crop diseases can lead to reduced yield and financial losses. CropAI helps farmers take preventive actions, ensuring healthier crops and better harvests.
+Unidentified and untreated crop diseases can lead to reduced yield and financial losses. KrishiMitra helps farmers take preventive actions, ensuring healthier crops and better harvests.
 
 3. Lack of Easy Access to Expert Advice
-Many farmers do not have immediate access to agricultural experts. CropAI’s chatbot provides real-time support, offering solutions, treatment suggestions, and preventive measures.
+Many farmers do not have immediate access to agricultural experts. KrishiMitra’s chatbot provides real-time support, offering solutions, treatment suggestions, and preventive measures.
 
 4. Minimizing Chemical Overuse
-Farmers often use excessive pesticides and fungicides due to a lack of accurate disease diagnosis. CropAI provides precise identification, reducing unnecessary chemical usage and promoting sustainable farming.
+Farmers often use excessive pesticides and fungicides due to a lack of accurate disease diagnosis. KrishiMitra provides precise identification, reducing unnecessary chemical usage and promoting sustainable farming.
 
 5. Bridging the Knowledge Gap
 Many small-scale farmers lack scientific knowledge about plant diseases. CropAI simplifies complex agricultural information, providing easy-to-understand insights through AI-driven predictions and chatbot assistance.
 
-By addressing these problems, CropAI empowers farmers with technology-driven solutions, improving agricultural productivity and sustainability.
+By addressing these problems, KrishiMitra empowers farmers with technology-driven solutions, improving agricultural productivity and sustainability.
 
 
 # Dependencies :
@@ -74,7 +74,7 @@ Running on http://127.0.0.1:8000/
 To open the UI:
 simply open index.html in a browser.
 
-4. Use CropAI :D
+4. Use KrishiMitra :D
 
 # FUTURE PLANS
 1. Add authentication .
