@@ -56,6 +56,7 @@ For building the user interface.
 pip install streamlit
 
 # Setup Instructions
+
 1. Set Up Environment Variables
 
 GOOGLE_API_KEY=AIzaSyAIwPMVkmR-oQn89jPrNIAB793IOLG_b-U
@@ -75,6 +76,9 @@ To open the UI:
 simply open index.html in a browser.
 
 4. Use KrishiMitra :D
+
+#OR JUST DOWNLOAD THE CODE FROM THIS DRIVE
+https://drive.google.com/drive/folders/1nwUMlaNCypbl8-iVO3lweHN_cM15cP4r
 
 # FUTURE PLANS
 1. Add authentication .
